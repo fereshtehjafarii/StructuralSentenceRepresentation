@@ -1,1 +1,18 @@
+You can download the training dataset from the following link:
+
 https://zenodo.org/record/2630551#.X2OYJYZ7mLM
+
+Reference:
+
+LAMBADA dataset (LAnguage Modeling Broadened to
+Account for Discourse Aspects) described in D. Paperno, G. Kruszewski, A.
+Lazaridou, Q. Pham, R. Bernardi, S. Pezzelle, M. Baroni, G. Boleda and R.
+Fernandez. 2016. The LAMBADA dataset: Word prediction requiring a broad
+discourse context. Proceedings of ACL 2016 (54th Annual Meeting of the
+Association for Computational Linguistics), East Stroudsburg PA: ACL, pages
+1525-1534. The source data come from the Book Corpus, made in turn of
+unpublished novels (see Y. Zhu, R. Kiros, R.f Zemel, R. Salakhutdinov, R.
+Urtasun, A. Torralba and S. Fidler. Aligning books and movies: Towards
+story-like visual explanations by watching movies and reading books. ICCV
+2015, pages 19-27).
+
