@@ -49,7 +49,7 @@ class DataLoader:
 
     def __init__(self, file_path, lex_len, synt_len, embedding, parse=True):
 
-        self.val_size = 500
+        self.val_size = 1000
         self.lex_len = lex_len
         self.synt_len = synt_len
 
